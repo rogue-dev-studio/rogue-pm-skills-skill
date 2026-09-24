@@ -4,7 +4,7 @@
 
 Product management workflows covering the full work lifecycle - discovery, strategy, execution, launch, and growth. Write PRDs, plan OKRs, and structure meeting notes. Useful beyond PMs - applicable to any knowledge worker managing projects, stakeholders, or strategy. Triggers: /write-prd, /plan-okrs, /meeting-notes
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Skill id: `pm-skills`
 
 ## Install
